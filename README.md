@@ -8,6 +8,7 @@ It is an Address Book,where user can save contact and address of a person
 
 ### Installation
 0. `npm install`
+
 ### Running the project
 0. In the first terminal run `node --harmony server.js`
 
